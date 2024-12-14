@@ -4,4 +4,3 @@ class Smartphone:
         self.model = model
         self.phone_number = phone_number
 
-

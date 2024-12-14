@@ -14,4 +14,4 @@ catalog.append(phone4)
 catalog.append(phone5)
 
 for phone in catalog:
-    print(f"{phone.brand} - {phone.model}. - {phone.phone_number}")
+    print(f"{phone.brand} - {phone.model}. {phone.phone_number}")
